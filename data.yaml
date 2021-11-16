@@ -1,0 +1,7 @@
+train: ../Melanomas/images/train
+val: ../Melanomas/images/valid
+
+# Classes
+nc: 2  # number of classes
+
+names: ['Benigno','Maligno'] 
